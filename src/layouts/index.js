@@ -20,7 +20,7 @@ const Header = () => (
             textDecoration: 'none',
           }}
         >
-          SMEGMA
+          Smegma
         </Link>
       </h1>
     </div>
