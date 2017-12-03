@@ -5,9 +5,6 @@ import Helmet from 'react-helmet'
 
 import './index.scss'
 
-const fontRotater = () => {
-
-}
 
 const Header = () => (
   <div style={{ background: 'black', marginBottom: '1.45rem',}}>
